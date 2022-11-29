@@ -1,0 +1,38 @@
+    * {
+        box-sizing: border-box;
+    }
+  
+    .containerTable {
+        display: grid;
+        grid-template-columns: repeat(0.5fr, 1fr, 1fr);
+    }
+    
+    .tree { 
+        grid-area: 1 / 1 / 2 / 2; 
+    }
+
+    .left-half { 
+        grid-area: 1 / 2 / 2 / 3; 
+        height: 450px; 
+        overflow-x: scroll; 
+        overflow-y: scroll;
+    }
+    
+    .right-half { 
+        grid-area: 1 / 3 / 2 / 4; 
+        height: 450px; 
+        overflow-x: scroll; 
+        overflow-y: scroll;
+    }
+
+    .rowType-html { 
+        background-color:#D2DEFA;
+    }
+
+    .rowType-js { 
+        background-color:#D2FAD7;
+    }
+
+    .rowType-css { 
+        background-color:lightyellow;
+    }

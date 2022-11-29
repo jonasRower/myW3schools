@@ -1,0 +1,179 @@
+css_singleFiles_display = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "noCombo",' +
+'		"text": "___p {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "color|7"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "red"},' +
+'															{"value": "green"},' +
+'															{"value": "darkviolet"},' +
+'															{"value": "magenta"},' +
+'															{"value": "pink"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": "___p.ex1 {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 11,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"display"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "display|11"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "none"},' +
+'															{"value": "inline"},' +
+'															{"value": "block"},' +
+'															{"value": "inline-block"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "___<h1>The display Property</h1>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "___<h2>display: none:</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "___<div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "___Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. <p class=ex1>HELLO WORLD!</p> Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut."' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

@@ -1,0 +1,296 @@
+css_singleFiles_borderRadius = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___p.normal {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"border"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border_1|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_2|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "solid"},' +
+'															{"value": "dashed"},' +
+'															{"value": "dotted"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_3|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "black"},' +
+'															{"value": "red"},' +
+'															{"value": "green"},' +
+'															{"value": "blue"},' +
+'															{"value": "yellow"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "___p.round {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 10,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"border"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border_1|10"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_2|10"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "solid"},' +
+'															{"value": "dashed"},' +
+'															{"value": "dotted"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_3|10"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "black"},' +
+'															{"value": "red"},' +
+'															{"value": "green"},' +
+'															{"value": "blue"},' +
+'															{"value": "yellow"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 11,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"border-radius"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-radius|11"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "0px"},' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "15px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 12,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"padding"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "padding|12"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "0px"},' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "15px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 13,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"margin"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "margin|13"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "0px"},' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "15px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "___<h2>The border-radius Property</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "___<p>This property is used to add rounded borders to an element:</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=normal>Normal border</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=round>Round border</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 27,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 28,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

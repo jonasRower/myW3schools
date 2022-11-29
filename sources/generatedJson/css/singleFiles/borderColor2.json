@@ -1,0 +1,97 @@
+css_singleFiles_borderColor2 = '{"rows": [' +
+'	{"data": {' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "p.one {"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 6,' +
+'		"type": "noCombo",' +
+'		"text": "  border-style: solid;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "  border-color: red green blue yellow; /* red top, green right, blue bottom and yellow left */"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": "</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": "<h2>The border-color Property</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "<p>The border-color property can have from one to four values (for the top border, right border, bottom border, and the left border):</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "<p class=one>A solid multicolor border</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": "</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "</html>"' +
+'	}}' +
+']}';

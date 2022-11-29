@@ -1,0 +1,340 @@
+html_singleFiles_table = '{"rows": [' +
+'	{"data": {' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "table {"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 6,' +
+'		"type": "noCombo",' +
+'		"text": "_font-family: arial, sans-serif;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "_border-collapse: collapse;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "_width: 100%;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "td, th {"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "_border: 1px solid #dddddd;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": "_text-align: left;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "_padding: 8px;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": "}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "tr:nth-child(even) {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 18,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"__background-color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "background-color|18"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "lightblue"},' +
+'															{"value": "blue"},' +
+'															{"value": "red"},' +
+'															{"value": "cyan"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": "<h2>HTML Table</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": "<table>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 27,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 28,' +
+'		"type": "noCombo",' +
+'		"text": "__<th>Company</th>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 29,' +
+'		"type": "noCombo",' +
+'		"text": "__<th>Contact</th>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 30,' +
+'		"type": "noCombo",' +
+'		"text": "__<th>Country</th>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 31,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 32,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 33,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Alfreds Futterkiste</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 34,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Maria Anders</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 35,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Germany</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 36,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 37,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 38,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Centro comercial Moctezuma</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 39,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Francisco Chang</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 40,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Mexico</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 41,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 42,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 43,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Ernst Handel</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 44,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Roland Mendel</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 45,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Austria</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 46,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 47,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 48,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Island Trading</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 49,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Helen Bennett</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 50,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>UK</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 51,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 52,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 53,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Laughing Bacchus Winecellars</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 54,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Yoshi Tannamuri</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 55,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Canada</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 56,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 57,' +
+'		"type": "noCombo",' +
+'		"text": "_<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 58,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Magazzini Alimentari Riuniti</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 59,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Giovanni Rovelli</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 60,' +
+'		"type": "noCombo",' +
+'		"text": "__<td>Italy</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 61,' +
+'		"type": "noCombo",' +
+'		"text": "_</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 62,' +
+'		"type": "noCombo",' +
+'		"text": "</table>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 63,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 64,' +
+'		"type": "noCombo",' +
+'		"text": "</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 65,' +
+'		"type": "noCombo",' +
+'		"text": "</html>"' +
+'	}}' +
+']}';

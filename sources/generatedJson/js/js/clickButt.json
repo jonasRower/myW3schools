@@ -1,0 +1,282 @@
+js_js_clickButt = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!doctype html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html lang=en>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<meta charset=utf-8>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___<title>click demo</title>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "___p {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "color_1|8"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "black"},' +
+'															{"value": "green"},' +
+'															{"value": "yellow"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "color_2|8"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "magenta"},' +
+'															{"value": "grey"},' +
+'															{"value": "pink"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 9,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"margin"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "margin|9"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "auto"},' +
+'															{"value": "0px"},' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "15px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 10,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"cursor"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "cursor|10"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "alias"},' +
+'															{"value": "all-scroll"},' +
+'															{"value": "auto"},' +
+'															{"value": "cell"},' +
+'															{"value": "col-resize"},' +
+'															{"value": "context-menu"},' +
+'															{"value": "copy"},' +
+'															{"value": "crosshair"},' +
+'															{"value": "default"},' +
+'															{"value": "e-resize"},' +
+'															{"value": "ew-resize"},' +
+'															{"value": "grab"},' +
+'															{"value": "grabbing"},' +
+'															{"value": "help"},' +
+'															{"value": "move"},' +
+'															{"value": "n-resize"},' +
+'															{"value": "ne-resize"},' +
+'															{"value": "nesw-resize"},' +
+'															{"value": "ns-resize"},' +
+'															{"value": "nw-resize"},' +
+'															{"value": "nwse-resize"},' +
+'															{"value": "no-drop"},' +
+'															{"value": "none"},' +
+'															{"value": "not-allowed"},' +
+'															{"value": "pointer"},' +
+'															{"value": "progress"},' +
+'															{"value": "row-resize"},' +
+'															{"value": "s-resize"},' +
+'															{"value": "se-resize"},' +
+'															{"value": "sw-resize"},' +
+'															{"value": "text"},' +
+'															{"value": "w-resize"},' +
+'															{"value": "wait"},' +
+'															{"value": "zoom-in"},' +
+'															{"value": "zoom-out"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "___p:hover {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 13,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"background"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "background|13"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "red"},' +
+'															{"value": "green"},' +
+'															{"value": "blue"},' +
+'															{"value": "yellow"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "__<script src=https://code.jquery.com/jquery-3.5.0.js></script>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "____<p>First Paragraph</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "____<p>Second Paragraph</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "____<p>Yet one more Paragraph</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "js",' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": "___<script>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "js",' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": "___$( %p% ).click(function() {"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "js",' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": "___$( this ).slideUp();"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "js",' +
+'		"rowNum": 27,' +
+'		"type": "noCombo",' +
+'		"text": "___});"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "js",' +
+'		"rowNum": 28,' +
+'		"type": "noCombo",' +
+'		"text": "___</script>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 29,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 30,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 31,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

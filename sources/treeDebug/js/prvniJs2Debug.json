@@ -1,0 +1,26 @@
+prvniJs2Debug.json = '{"stromDebug": [' +
+'	{"variable": {' +
+'       "var": "x",' +
+'       "rowStart": 11,' +
+'       "rowEnd": 999,' +
+'       "value": "5",' +
+'   }},' +
+'	{"variable": {' +
+'       "var": "y",' +
+'       "rowStart": 12,' +
+'       "rowEnd": 999,' +
+'       "value": "6",' +
+'   }},' +
+'	{"variable": {' +
+'       "var": "z",' +
+'       "rowStart": 13,' +
+'       "rowEnd": 999,' +
+'       "value": "x + y",' +
+'   }},' +
+'	{"variable": {' +
+'       "var": "document.getElementById("demo").innerHTML",' +
+'       "rowStart": 14,' +
+'       "rowEnd": 999,' +
+'       "value": ""The value of z is: " + z",' +
+'   }}' +
+'	]}';

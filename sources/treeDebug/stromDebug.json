@@ -1,0 +1,26 @@
+stromDebug = '{"stromDebug": [' +
+'	{"variable": {' +
+'		"var": "this.obj.pole.pole2",' +
+'		"rowStart": 12,' +
+'		"rowEnd": 20,' +
+'		"value": "val"' +
+'	}},' +
+'	{"variable": {' +
+'		"var": "this.cislovaniZapnuto",' +
+'		"rowStart": 13,' +
+'		"rowEnd": 20,' +
+'		"value": "10"' +
+'	}},' +
+'	{"variable": {' +
+'		"var": "tableSrc",' +
+'		"rowStart": 21,' +
+'		"rowEnd": 24,' +
+'		"value": "xxx"' +
+'	}},' +
+'	{"variable": {' +
+'		"var": "tableSrc.cc.OO",' +
+'		"rowStart": 22,' +
+'		"rowEnd": 26,' +
+'		"value": "xxx"' +
+'	}}' +
+'	]}';

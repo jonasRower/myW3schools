@@ -1,0 +1,20 @@
+prvniJsDebug = '{"stromDebug": [' +
+'	{"variable": {' +
+'       "var": "x",' +
+'       "rowStart": 5,' +
+'       "rowEnd": 9,' +
+'       "value": "5"' +
+'   }},' +
+'	{"variable": {' +
+'       "var": "y",' +
+'       "rowStart": 6,' +
+'       "rowEnd": 9,' +
+'       "value": "6"' +
+'   }},' +
+'	{"variable": {' +
+'       "var": "z",' +
+'       "rowStart": 7,' +
+'       "rowEnd": 0,' +
+'       "value": "11"' +
+'   }}' +
+'	]}';

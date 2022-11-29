@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+
+        </style>
+    </head>
+    <body>
+
+        <form id="contact-form" method="POST" action="/contact">
+            <label for="who">Who do you want to contact?</label>
+            <input type="text" name="who" value="<% =qs.pertson %>">
+            <label for="department">Which department?</label>
+            <input type="text" name="department" value="<% =qs.dept %>">
+            <label for="who">Your email?</label>
+            <input type="email" name="email">
+            <input type="submit" value="submit">
+        </form>
+
+        <h1>Welcome to the profile of <%= person %></h1>
+        <p>Nenajdete lepsi stranku než tady</p>
+    </body>
+</html>

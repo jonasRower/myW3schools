@@ -1,0 +1,24 @@
+	{"variable": {
+		"var": "a",
+		"rowStart": 9,
+		"rowEnd": 13,
+		"value": "5"
+	}},
+	{"variable": {
+		"var": "b",
+		"rowStart": 11,
+		"rowEnd": 13,
+		"value": "6"
+	}},
+	{"variable": {
+		"var": "a",
+		"rowStart": 19,
+		"rowEnd": 24,
+		"value": "11"
+	}},
+	{"variable": {
+		"var": "c",
+		"rowStart": 21,
+		"rowEnd": 24,
+		"value": "66"
+	}},

@@ -1,0 +1,30 @@
+'	{"variable": {
+'       "var": "a ",' +
+'       "rowStart": 5,' +
+'       "rowEnd": 11,' +
+'       "value": "5"' +
+'   }},' +
+'	{"variable": {
+'       "var": "b ",' +
+'       "rowStart": 7,' +
+'       "rowEnd": 11,' +
+'       "value": "6"' +
+'   }},' +
+'	{"variable": {
+'       "var": "a ",' +
+'       "rowStart": 15,' +
+'       "rowEnd": 19,' +
+'       "value": "11"' +
+'   }},' +
+'	{"variable": {
+'       "var": "c ",' +
+'       "rowStart": 17,' +
+'       "rowEnd": 19,' +
+'       "value": "66"' +
+'   }},' +
+'	{"variable": {
+'       "var": "test ",' +
+'       "rowStart": 9,' +
+'       "rowEnd": 11,' +
+'       "value": "undefined"' +
+'   }},' +

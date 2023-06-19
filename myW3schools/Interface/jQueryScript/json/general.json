@@ -1,0 +1,165 @@
+htmlData = '{"rows": [' +
+'	{"data": {' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "_<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "__<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___body {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____background-color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "background-color|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "lightblue"},' +
+'															{"value": "blue"},' +
+'															{"value": "red"},' +
+'															{"value": "cyan"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "___h1 {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 10,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "color_1|10"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "black"},' +
+'															{"value": "green"},' +
+'															{"value": "yellow"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "color_2|10"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "magenta"},' +
+'															{"value": "grey"},' +
+'															{"value": "pink"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "____text-align: center;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___p {"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": "____font-family: verdana;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "____font-size: 20px;"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": "__</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "_</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "_<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "__<h1>My First CSS Example</h1>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": "__<p>This is a paragraph.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": "_</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": "</html>"' +
+'	}}' +
+']}';

@@ -1,0 +1,513 @@
+css_singleFiles_borderStyle = '{"rows": [' +
+'	{"data": {' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___p.dotted {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "___p.dashed {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 9,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|9"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "___p.solid {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 12,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|12"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___p.double {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 15,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|15"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "___p.groove {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 18,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|18"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "___p.ridge {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 21,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|21"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": "___p.inset {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 24,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|24"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": "___p.outset {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 27,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|27"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 28,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 29,' +
+'		"type": "noCombo",' +
+'		"text": "___p.none {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 30,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|30"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 31,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 32,' +
+'		"type": "noCombo",' +
+'		"text": "___p.hidden {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 33,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|33"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 34,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 35,' +
+'		"type": "noCombo",' +
+'		"text": "___p.mix {"' +
+'	}},' +
+'{"data": {' +
+'		"rowNum": 36,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"____border-style"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border-style|36"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "dotted"},' +
+'															{"value": "dashed"},' +
+'															{"value": "solid"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowNum": 37,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 38,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 39,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 40,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 41,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 42,' +
+'		"type": "noCombo",' +
+'		"text": "___<h2>The border-style Property</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 43,' +
+'		"type": "noCombo",' +
+'		"text": "___<p>This property specifies what kind of border to display:</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 44,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 45,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=dotted>A dotted border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 46,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=dashed>A dashed border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 47,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=solid>A solid border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 48,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=double>A double border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 49,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=groove>A groove border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 50,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=ridge>A ridge border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 51,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=inset>An inset border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 52,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=outset>An outset border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 53,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=none>No border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 54,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=hidden>A hidden border.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 55,' +
+'		"type": "noCombo",' +
+'		"text": "___<p class=mix>A mixed border.</p>",' +
+'		"format": [' +
+'			{' +
+'				"span": "p",' +
+'				"spanNeighbors": ";p ",' +
+'				"style": "color:blue;font-weight:bold"' +
+'			},' +
+'			{' +
+'				"span": "class",' +
+'				"spanNeighbors": " class=",' +
+'				"style": "color:red;font-weight:bold"' +
+'			}' +
+'		]' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 56,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 57,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowNum": 58,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

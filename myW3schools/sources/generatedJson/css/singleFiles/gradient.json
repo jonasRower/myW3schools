@@ -1,0 +1,161 @@
+css_singleFiles_gradient = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___#grad {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"height"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "height|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "10px"},' +
+'															{"value": "50px"},' +
+'															{"value": "200px"},' +
+'															{"value": "300px"},' +
+'															{"value": "500px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"background-image"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "background-image_1|7"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": ""linear-gradient(red"},' +
+'															{"value": ""linear-gradient(to right"},' +
+'															{"value": ""linear-gradient(to bottom right"},' +
+'															{"value": ""radial-gradient(red 5%"},' +
+'															{"value": ""radial-gradient(circle"},' +
+'															{"value": ""conic-gradient(red"},' +
+'															{"value": ""conic-gradient(red"},' +
+'															{"value": ""conic-gradient(red 45deg"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "background-image_2|7"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": " yellow)""},' +
+'															{"value": " red "},' +
+'															{"value": " red"},' +
+'															{"value": " yellow"},' +
+'															{"value": " yellow 15%"},' +
+'															{"value": " red"},' +
+'															{"value": " yellow"},' +
+'															{"value": " yellow"},' +
+'															{"value": " yellow 90deg"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": "___<h1>Linear Gradient - Top to Bottom</h1>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___<p>This linear gradient starts red at the top, transitioning to yellow at the bottom:</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "___<div id=grad></div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

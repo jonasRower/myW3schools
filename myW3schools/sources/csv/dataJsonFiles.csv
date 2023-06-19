@@ -1,0 +1,8 @@
+jsonName,htmlName,typeOfProject,folderPath,idMulti,pathJson,pathSrc,attachedJs,pathDebug
+ test1.json, folder1/folder2/test1, singleFile, folder1/folder2/test1, Multi-test1.json,,,,
+ test2.json, folder3/folder4/test2, singleFile, folder3/folder4/test2, Multi-test1.json,,,,
+ test3.json, folder3/folder4/test3, singleFile, folder3/folder4/test3, Multi-test1.json,,,,
+ test4.json, folder1/folder10/test4, multiFile, css/folder10/test4, Multi-test4.json,,,,
+ test5.json, folder1/folder2/test5, multiFile, css/first/test5, Multi-test4.json,,,,
+ test6.json, folder11/folder5/test6, multiFile, css/second/test6, Multi-test4.json,,,,
+ css_singleFiles_firstHtml, kateg1/kateg2/firstHtml.html, singleFile,,, sources/generatedJson/css/singleFiles/firstHtml.json, sources/language/css/singleFiles/firstHtml.html,,

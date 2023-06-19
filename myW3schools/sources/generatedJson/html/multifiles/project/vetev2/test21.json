@@ -1,0 +1,74 @@
+html_multifiles_project_vetev2_test21 = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<title>Page Title</title>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 6,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "___<h1>This is a Heading</h1>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "___<p>Test21</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

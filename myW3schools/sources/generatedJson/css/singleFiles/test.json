@@ -1,0 +1,298 @@
+css_singleFiles_test = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___.myDiv {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"border"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border_1|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_2|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "solid"},' +
+'															{"value": "dashed"},' +
+'															{"value": "dotted"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_3|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "black"},' +
+'															{"value": "red"},' +
+'															{"value": "green"},' +
+'															{"value": "blue"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"background-color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "background-color|7"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "lightblue"},' +
+'															{"value": "blue"},' +
+'															{"value": "red"},' +
+'															{"value": "cyan"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"text-align"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "text-align|8"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "center"},' +
+'															{"value": "left"},' +
+'															{"value": "right"},' +
+'															{"value": "justify"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___<h1>The div element</h1>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "___<div class=myDiv>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "___<div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": "___<div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "______<h2>This is a heading in a div element</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "______<p>This is some text in a div element.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": "___<div class=myDiv>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": "___<div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 27,' +
+'		"type": "noCombo",' +
+'		"text": "___<div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 28,' +
+'		"type": "noCombo",' +
+'		"text": "______<h2>This is a heading in a div element</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 29,' +
+'		"type": "noCombo",' +
+'		"text": "______<p>This is some text in a div element.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 30,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 31,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 32,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 33,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 34,' +
+'		"type": "noCombo",' +
+'		"text": "___<p>This is some text outside the div element.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 35,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 36,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 37,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

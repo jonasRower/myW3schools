@@ -1,0 +1,141 @@
+css_singleFiles_textAlign = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___div.a {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"text-align"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "text-align|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "center"},' +
+'															{"value": "left"},' +
+'															{"value": "right"},' +
+'															{"value": "justify"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 12,' +
+'		"type": "noCombo",' +
+'		"text": "___<h1>The text-align Property</h1>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 13,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 14,' +
+'		"type": "noCombo",' +
+'		"text": "___<div class=a>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": "____<h2>text-align: center:</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": "____<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut.</p>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "___</div>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 18,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

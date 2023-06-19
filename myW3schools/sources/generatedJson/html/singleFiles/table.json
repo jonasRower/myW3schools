@@ -1,0 +1,517 @@
+html_singleFiles_table = '{"rows": [' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 1,' +
+'		"type": "noCombo",' +
+'		"text": "_<!DOCTYPE html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 2,' +
+'		"type": "noCombo",' +
+'		"text": "_<html>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 3,' +
+'		"type": "noCombo",' +
+'		"text": "__<head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 4,' +
+'		"type": "noCombo",' +
+'		"text": "___<style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 5,' +
+'		"type": "noCombo",' +
+'		"text": "___table {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 6,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"font-family"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "font-family|6"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "Arial"},' +
+'															{"value": "Helvetica"},' +
+'															{"value": "Gill Sans"},' +
+'															{"value": "Lucida"},' +
+'															{"value": "Helvetica Narrow"},' +
+'															{"value": "sans-serif"},' +
+'															{"value": "Times"},' +
+'															{"value": "Times New Roman"},' +
+'															{"value": "Palatino"},' +
+'															{"value": "Bookman"},' +
+'															{"value": "New Century Schoolbook"},' +
+'															{"value": "serif"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 7,' +
+'		"type": "noCombo",' +
+'		"text": "___border-collapse: collapse;"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 8,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"width"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "width|8"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "10px"},' +
+'															{"value": "50px"},' +
+'															{"value": "200px"},' +
+'															{"value": "300px"},' +
+'															{"value": "500px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 9,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 10,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 11,' +
+'		"type": "noCombo",' +
+'		"text": "___td, th {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 12,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"border"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "border_1|12"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"},' +
+'															{"value": "25px"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_2|12"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "solid"},' +
+'															{"value": "dashed"},' +
+'															{"value": "dotted"},' +
+'															{"value": "double"},' +
+'															{"value": "groove"},' +
+'															{"value": "ridge"},' +
+'															{"value": "inset"},' +
+'															{"value": "outset"},' +
+'															{"value": "none"},' +
+'															{"value": "hidden"}' +
+'										]},' +
+'											{"select": 	[' +
+'															{"id": "border_3|12"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "black"},' +
+'															{"value": "red"},' +
+'															{"value": "green"},' +
+'															{"value": "blue"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"},' +
+'															{"value": "yellow"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 13,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"text-align"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "text-align|13"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "center"},' +
+'															{"value": "left"},' +
+'															{"value": "right"},' +
+'															{"value": "justify"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 14,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"padding"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "padding|14"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "0px"},' +
+'															{"value": "1px"},' +
+'															{"value": "5px"},' +
+'															{"value": "10px"},' +
+'															{"value": "15px"},' +
+'															{"value": "20px"},' +
+'															{"value": "25px"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 15,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 16,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 17,' +
+'		"type": "noCombo",' +
+'		"text": "___tr:nth-child(even) {"' +
+'	}},' +
+'{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 18,' +
+'		"type": "combo",' +
+'		"text": [' +
+'					{"text": 	"background-color"},' +
+'					{"selectOption": 	[' +
+'											{"select": 	[' +
+'															{"id": "background-color|18"}' +
+'															]},' +
+'											{"option": 	[' +
+'															{"value": "lightblue"},' +
+'															{"value": "blue"},' +
+'															{"value": "red"},' +
+'															{"value": "cyan"}' +
+'															]}' +
+'										]}' +
+']' +
+'}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 19,' +
+'		"type": "noCombo",' +
+'		"text": "___}"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "css",' +
+'		"rowNum": 20,' +
+'		"type": "noCombo",' +
+'		"text": "___</style>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 21,' +
+'		"type": "noCombo",' +
+'		"text": "__</head>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 22,' +
+'		"type": "noCombo",' +
+'		"text": "__<body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 23,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 24,' +
+'		"type": "noCombo",' +
+'		"text": "___<h2>HTML Table</h2>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 25,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 26,' +
+'		"type": "noCombo",' +
+'		"text": "___<table>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 27,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 28,' +
+'		"type": "noCombo",' +
+'		"text": "_____<th>Company</th>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 29,' +
+'		"type": "noCombo",' +
+'		"text": "_____<th>Contact</th>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 30,' +
+'		"type": "noCombo",' +
+'		"text": "_____<th>Country</th>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 31,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 32,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 33,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Alfreds Futterkiste</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 34,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Maria Anders</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 35,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Germany</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 36,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 37,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 38,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Centro comercial Moctezuma</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 39,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Francisco Chang</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 40,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Mexico</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 41,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 42,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 43,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Ernst Handel</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 44,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Roland Mendel</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 45,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Austria</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 46,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 47,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 48,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Island Trading</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 49,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Helen Bennett</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 50,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>UK</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 51,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 52,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 53,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Laughing Bacchus Winecellars</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 54,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Yoshi Tannamuri</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 55,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Canada</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 56,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 57,' +
+'		"type": "noCombo",' +
+'		"text": "____<tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 58,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Magazzini Alimentari Riuniti</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 59,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Giovanni Rovelli</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 60,' +
+'		"type": "noCombo",' +
+'		"text": "_____<td>Italy</td>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 61,' +
+'		"type": "noCombo",' +
+'		"text": "____</tr>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 62,' +
+'		"type": "noCombo",' +
+'		"text": "___</table>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 63,' +
+'		"type": "noCombo",' +
+'		"text": ""' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 64,' +
+'		"type": "noCombo",' +
+'		"text": "__</body>"' +
+'	}},' +
+'	{"data": {' +
+'		"rowType": "html",' +
+'		"rowNum": 65,' +
+'		"type": "noCombo",' +
+'		"text": "_</html>"' +
+'	}}' +
+']}';

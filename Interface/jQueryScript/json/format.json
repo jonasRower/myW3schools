@@ -1,0 +1,12 @@
+globalFormat = '{"format": [' +
+'	{' +
+'		"span": "p",' +
+'		"spanNeighbors": ";p ",' +
+'		"style": "color:blue;font-weight:bold"' +
+'	},' +
+'	{' +
+'		"span": "class",' +
+'		"spanNeighbors": " class=",' +
+'		"style": "color:red;font-weight:bold"' +
+'	}' +
+']}'; 

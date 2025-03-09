@@ -1,0 +1,68 @@
+pre code.hljs{
+	display:block;
+	overflow-x:auto;
+}
+
+.hljs{
+	background:white;
+	font-weight:400;
+}
+.hljs-subst{
+	color:#e3dfff;
+}
+.hljs-title{
+	color:black;
+	font-weight:400;
+}
+.hljs-name{
+	color:#B20B8A;
+	font-weight: bold;
+}
+.hljs-tag{
+	color:purple;
+	font-style:italic
+}
+.hljs-attr{
+	color:#B20B8A;
+	font-style:italic
+}
+.hljs-built_in,.hljs-keyword,.hljs-section,.hljs-selector-tag{
+	color:green;
+    font-weight: bold;
+}
+.hljs-addition,.hljs-attribute,.hljs-bullet,.hljs-code,.hljs-deletion,.hljs-quote,.hljs-regexp,.hljs-selector-attr,.hljs-selector-class,.hljs-selector-pseudo,.hljs-string,.hljs-symbol,.hljs-template-tag{
+	color:orangered;
+}
+.hljs-meta,.hljs-meta .hljs-string{
+    color:purple;
+}
+.hljs-comment{
+	color:#ac65ff;
+}
+.hljs-literal,.hljs-number{
+	color:purple;
+}
+.hljs-emphasis{
+	font-style:italic;
+}
+.hljs-strong{
+	font-weight:700;
+}
+
+/* css */
+.cssKey{
+	color:red;
+}
+
+.cssValue{
+	color:#09710d;
+	font-weight: bold;
+}
+
+.dvojTecka{
+	color: black;
+}
+
+.attr{
+	color:orangered;
+}
